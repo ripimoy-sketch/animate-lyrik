@@ -1,1 +1,1 @@
-# animate-lyrik
+# Animated lyrics
